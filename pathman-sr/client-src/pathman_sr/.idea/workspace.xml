@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31c296fa-9afa-4937-a5e5-9515bfba063c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/css/next-componentized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/css/next-componentized.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/css/next.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/css/next.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/CiscoSansExtraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/CiscoSansRegular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansextralight-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansextralight-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansextralight-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansextralight-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansregular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansregular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansregular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/cisco/ciscosansregular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/next-font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/next-font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/next-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/fonts/next-font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/js/next.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/NeXt/js/next.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/angular-animate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/angular-animate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/angular-animate.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-animate/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/angular-aria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/angular-aria.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/angular-aria.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-aria/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/dist/md-data-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/dist/md-data-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/dist/md-data-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/dist/md-data-table.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material-data-table/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material-mocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.layouts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.layouts.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/angular-material.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/copy2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/hangout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/share-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/chips/demoBasicUsage/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/chips/demoContactChips/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/gridList/demoBasicUsage/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/gridList/demoDynamicTiles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/gridList/demoResponsiveUsage/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoLoadSvgIconsFromUrl/img/icons/addShoppingCart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoLoadSvgIconsFromUrl/img/icons/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoLoadSvgIconsFromUrl/img/icons/cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoSvgIconSets/assets/cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoSvgIconSets/assets/core-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoSvgIconSets/assets/social-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoSvgIconsFromURL/img/icons/addShoppingCart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoSvgIconsFromURL/img/icons/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoSvgIconsFromURL/img/icons/cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoUsingTemplateCache/assets/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoUsingTemplateCache/assets/cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/icon/demoUsingTemplateCache/assets/core-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/input/demoIcons/icons/ic_email_24px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/input/demoIcons/icons/ic_person_24px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/input/demoIcons/icons/ic_phone_24px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/input/demoIcons/icons/ic_place_24px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/input/demoIcons/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/list/demoListControls/img/100-0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/list/demoListControls/img/100-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/list/demoListControls/img/100-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/tabs/demoDynamicHeight/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/tabs/demoDynamicTabs/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/tabs/demoStaticTabs/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/toolbar/demoBasicUsage/img/icons/favorite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/toolbar/demoBasicUsage/img/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/demos/toolbar/demoBasicUsage/img/icons/more_vert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/autocomplete/autocomplete-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/autocomplete/autocomplete-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/autocomplete/autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/autocomplete/autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/autocomplete/autocomplete.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/autocomplete/autocomplete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/backdrop/backdrop-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/backdrop/backdrop-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/backdrop/backdrop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/backdrop/backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/backdrop/backdrop.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/backdrop/backdrop.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/bottomSheet/bottomSheet-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/bottomSheet/bottomSheet-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/bottomSheet/bottomSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/bottomSheet/bottomSheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/bottomSheet/bottomSheet.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/bottomSheet/bottomSheet.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/button/button-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/button/button-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/button/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/button/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/button/button.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/button/button.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/card/card-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/card/card-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/card/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/card/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/card/card.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/card/card.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/checkbox/checkbox-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/checkbox/checkbox-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/checkbox/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/checkbox/checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/checkbox/checkbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/checkbox/checkbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/chips/chips-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/chips/chips-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/chips/chips.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/chips/chips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/chips/chips.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/chips/chips.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/content/content-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/content/content-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/content/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/content/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/content/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/content/content.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/core/core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/core/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/core/core.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/core/core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/core/default-theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/datepicker/datepicker-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/datepicker/datepicker-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/datepicker/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/datepicker/datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/datepicker/datepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/datepicker/datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/dialog/dialog-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/dialog/dialog-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/dialog/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/dialog/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/dialog/dialog.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/dialog/dialog.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/divider/divider-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/divider/divider-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/divider/divider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/divider/divider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/divider/divider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/divider/divider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabActions/fabActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabActions/fabActions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabToolbar/fabToolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabToolbar/fabToolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabToolbar/fabToolbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabToolbar/fabToolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabTrigger/fabTrigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/fabTrigger/fabTrigger.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/gridList/gridList-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/gridList/gridList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/gridList/gridList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/gridList/gridList.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/gridList/gridList.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/icon/icon-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/icon/icon-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/icon/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/icon/icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/icon/icon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/icon/icon.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/input/input-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/input/input-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/input/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/input/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/input/input.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/input/input.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/list/list-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/list/list-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/list/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/list/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/list/list.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/list/list.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menu/menu-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menu/menu-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menu/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menu/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menu/menu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menu/menu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menuBar/menuBar-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menuBar/menuBar-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menuBar/menuBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menuBar/menuBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menuBar/menuBar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/menuBar/menuBar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressCircular/progressCircular-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressCircular/progressCircular-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressCircular/progressCircular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressCircular/progressCircular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressCircular/progressCircular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressCircular/progressCircular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressLinear/progressLinear-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressLinear/progressLinear-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressLinear/progressLinear.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressLinear/progressLinear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressLinear/progressLinear.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/progressLinear/progressLinear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/radioButton/radioButton-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/radioButton/radioButton-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/radioButton/radioButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/radioButton/radioButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/radioButton/radioButton.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/radioButton/radioButton.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/select/select-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/select/select-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/select/select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/select/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/select/select.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/select/select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/showHide/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/showHide/showHide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sidenav/sidenav-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sidenav/sidenav-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sidenav/sidenav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sidenav/sidenav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sidenav/sidenav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sidenav/sidenav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/slider/slider-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/slider/slider-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/slider/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/slider/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/slider/slider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/slider/slider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sticky/sticky.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sticky/sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sticky/sticky.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/sticky/sticky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/subheader/subheader-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/subheader/subheader-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/subheader/subheader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/subheader/subheader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/subheader/subheader.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/subheader/subheader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/swipe/swipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/swipe/swipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/switch/switch-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/switch/switch-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/switch/switch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/switch/switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/switch/switch.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/switch/switch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tabs/tabs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/textField/textField-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/textField/textField.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/textField/textField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toast/toast-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toast/toast-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toast/toast.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toast/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toast/toast.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toast/toast.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toolbar/toolbar-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toolbar/toolbar-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toolbar/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toolbar/toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toolbar/toolbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/toolbar/toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tooltip/tooltip-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tooltip/tooltip-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tooltip/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tooltip/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tooltip/tooltip.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/tooltip/tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/virtualRepeat/virtualRepeat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/virtualRepeat/virtualRepeat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/whiteframe/whiteframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/whiteframe/whiteframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/whiteframe/whiteframe.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/closure/whiteframe/whiteframe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/css/angular-material-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/css/angular-material-layouts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/autocomplete-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/autocomplete-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/autocomplete.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/autocomplete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/autocomplete/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/backdrop-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/backdrop-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/backdrop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/backdrop.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/backdrop.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/backdrop/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bottomSheet-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bottomSheet-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bottomSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bottomSheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bottomSheet.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bottomSheet.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/bottomSheet/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/button-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/button-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/button.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/button/button.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/card-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/card-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/card.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/card/card.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/checkbox-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/checkbox-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/checkbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/checkbox/checkbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/chips-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/chips-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/chips.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/chips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/chips.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/chips/chips.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/content-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/content-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/content/content.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/core/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/core/core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/core/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/core/core.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/core/core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/core/default-theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/datepicker-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/datepicker-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/datepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/datepicker/datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/dialog-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/dialog-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/dialog.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/dialog/dialog.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/divider-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/divider-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/divider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/divider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/divider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/divider/divider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabActions/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabActions/fabActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabActions/fabActions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabSpeedDial/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabSpeedDial/fabSpeedDial.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabSpeedDial/fabSpeedDial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabToolbar/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabToolbar/fabToolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabToolbar/fabToolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabToolbar/fabToolbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabToolbar/fabToolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabTrigger/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabTrigger/fabTrigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/fabTrigger/fabTrigger.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/gridList/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/gridList/gridList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/gridList/gridList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/gridList/gridList.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/gridList/gridList.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/icon-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/icon-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/icon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/icon/icon.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/input-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/input-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/input.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/input/input.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/list-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/list-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/list.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/list/list.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/menu-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/menu-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/menu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menu/menu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/menuBar-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/menuBar-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/menuBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/menuBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/menuBar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/menuBar/menuBar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/progressCircular-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/progressCircular-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/progressCircular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/progressCircular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/progressCircular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressCircular/progressCircular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/progressLinear-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/progressLinear-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/progressLinear.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/progressLinear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/progressLinear.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/progressLinear/progressLinear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/radioButton-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/radioButton-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/radioButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/radioButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/radioButton.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/radioButton/radioButton.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/select-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/select-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/select.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/select/select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/showHide/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/showHide/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/showHide/showHide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/sidenav-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/sidenav-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/sidenav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/sidenav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/sidenav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sidenav/sidenav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/slider-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/slider-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/slider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/slider/slider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sticky/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sticky/sticky.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sticky/sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sticky/sticky.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/sticky/sticky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/subheader-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/subheader-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/subheader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/subheader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/subheader.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/subheader/subheader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/swipe/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/swipe/swipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/swipe/swipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/switch-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/switch-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/switch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/switch.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/switch/switch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/tabs-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/tabs-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/tabs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tabs/tabs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/textField-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/textField-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/textField.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/textField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/textField.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/textField/textField.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/toast-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/toast-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/toast.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/toast.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toast/toast.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/toolbar-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/toolbar-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/toolbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/toolbar/toolbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/tooltip-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/tooltip-default-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/tooltip.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/tooltip/tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/virtualRepeat/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/virtualRepeat/virtualRepeat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/virtualRepeat/virtualRepeat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/virtualRepeat/virtualRepeat.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/virtualRepeat/virtualRepeat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/whiteframe/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/whiteframe/whiteframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/whiteframe/whiteframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/whiteframe/whiteframe.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/modules/js/whiteframe/whiteframe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-material/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/angular-messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/angular-messages.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/angular-messages.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-messages/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/angular-route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/angular-route.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/angular-route.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-route/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate-loader-partial/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate-loader-partial/angular-translate-loader-partial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate-loader-partial/angular-translate-loader-partial.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate-loader-partial/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate-loader-partial/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate/angular-translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate/angular-translate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular-translate/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/angular-csp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/angular.min.js.gzip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/angular.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/angular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/dist/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/external/sizzle/dist/sizzle.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/var/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/var/rmargin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/css/var/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/data/var/acceptData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/data/var/dataPriv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/data/var/dataUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/traversing/var/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/traversing/var/siblings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/documentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/fnToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/getProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/rcssNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/lodash.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/lodash.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/lodash.fp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/lodash.fp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/lodash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/lodash.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/dist/mapping.fp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/doc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/fp/_baseConvert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/fp/_convertBrowser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/fp/_mapping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/fp/placeholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/common/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/common/mapping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/common/minify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/common/uglify.options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/common/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/build-dist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/build-doc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/build-modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/doc/wiki.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/_falseOptions.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/_util.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/alias.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/category.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/convert.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/fp.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/module.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/fp/template/modules/thru.jst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/main/build-dist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/main/build-doc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/main/build-modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lib/main/build-site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/lodash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/perf/asset/perf-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/perf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/perf/perf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/asset/test-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/asset/worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/backbone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/fp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/remove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/saucelabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/test-fp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/test/underscore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/backbone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/collection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/noconflict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/setup/dom-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/setup/environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/sync.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/backbone/test/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/buttonBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/buttonBgHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/debugger.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/detach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/detachHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/disable.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/disable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/disableHover.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/disableHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/downActive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/downHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/errorIcon-sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/errorIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/errorIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/firebug-1.3a2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/firebug.IE6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/firebug.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/firebug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/firebug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/group.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/html.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/infoIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/infoIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/loading_16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/minHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/offHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/pixel_transparent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/roundCorner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/search.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/shadow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/shadow2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/shadowAlpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabHoverLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabHoverMid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabHoverRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabMenuCheckbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabMenuPin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabMenuRadio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabMenuTarget.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabMenuTargetHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabMid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tabRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/textEditorBorders.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/textEditorBorders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/textEditorCorners.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/textEditorCorners.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/titlebarMid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/toolbarMid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tree_close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/tree_open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/twistyClosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/twistyOpen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/upActive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/upHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/warningIcon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/skin/xp/warningIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/firebug-lite/src/firebug-lite-debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/json-js/json2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/chaining.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/collections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/cross-document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/test/utility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/vendor/underscore/underscore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/lodash/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/css/next-componentized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/css/next-componentized.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/css/next.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/css/next.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/CiscoSansExtraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/CiscoSansRegular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansextralight-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansextralight-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansextralight-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansextralight-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansregular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansregular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansregular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/cisco/ciscosansregular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/next-font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/next-font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/next-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/fonts/next-font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/js/next.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/next-bower/js/next.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/requirejs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/requirejs/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/requirejs/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/CONTRIBUTE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/dist/restangular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/dist/restangular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/dist/restangular.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/karma.underscore.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/src/restangular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/vendor/restangular/test/restangularSpec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../client.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/controllers/pathman.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/controllers/pathman.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/pathman_sr/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/pathman_sr/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/pathman_sr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/pathman_sr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/pathman_sr/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/pathman_sr/js/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dvjkRVV7qCCcOh8VRGoNpL6Dsb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/usr/local/opt/node@10/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pathman_sr/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="pathman.controller.js" type="NodeJSConfigurationType" temporary="true" path-to-node="/usr/local/opt/node@10/bin/node" nameIsGenerated="true" path-to-js-file="pathman.controller.js" working-dir="$PROJECT_DIR$/src/app/controllers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.pathman.controller.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31c296fa-9afa-4937-a5e5-9515bfba063c" name="Default Changelist" comment="" />
+      <created>1593312603520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593312603520</updated>
+      <workItem from="1593312605023" duration="23906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="472" y="160" key="#pathman.controller.js" timestamp="1593332213239">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="472" y="160" key="#pathman.controller.js/0.23.1680.1027@0.23.1680.1027" timestamp="1593332213239" />
+    <state x="877" y="278" key="FileChooserDialogImpl" timestamp="1593332210766">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="877" y="278" key="FileChooserDialogImpl/0.23.1680.1027@0.23.1680.1027" timestamp="1593332210766" />
+    <state width="1533" height="154" key="GridCell.Tab.0.bottom" timestamp="1593410317459">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1533" height="154" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593410317459" />
+    <state width="1533" height="154" key="GridCell.Tab.0.center" timestamp="1593410317458">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1533" height="154" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593410317458" />
+    <state width="1533" height="154" key="GridCell.Tab.0.left" timestamp="1593410317458">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1533" height="154" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593410317458" />
+    <state width="1533" height="154" key="GridCell.Tab.0.right" timestamp="1593410317458">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1533" height="154" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593410317458" />
+    <state x="511" y="297" key="jetbrains.nodejs.interpreters-dialog" timestamp="1593332212021">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="511" y="297" key="jetbrains.nodejs.interpreters-dialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593332212021" />
+  </component>
+</project>
